@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Front-end**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LeonardoMachado30](https://github.com/LeonardoMachado30)
+- 👨‍💻 All of my projects are available at https://leonardomachado30.github.io/CurriculoWeb/
 
 - 💬 Ask me about **Dev front-end, learning Angular 12, experience in .dot (C#) and Laravel (PHP)**
 
