@@ -18,6 +18,6 @@
 
 <p align="left">Connect with me:</p>
 <p>
-<a href="https://www.linkedin.com/in/flavio-leonardo-ads/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/flavio-leonardo-ads/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a>
 </p>
 
