@@ -16,7 +16,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact" alt="LeonardoMachado30" />
 </div>
 
-<br><br><br><br><br><br><br>
-
 <p align="left">Connect with me:</p>
 <a href="https://www.linkedin.com/in/flavio-leonardo-ads/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a>
