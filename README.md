@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Flavio Leonardo</h1>
-<h3 align="center">Developer Junior Angular 12, .net (C#), Laravel (PHP)</h3>
+<h3 align="center">Developer Junior React 12, .net (C#), Laravel (PHP)</h3>
 
 - 🌱 I’m currently learning **Front-end**
 
