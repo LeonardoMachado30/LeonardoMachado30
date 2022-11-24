@@ -18,8 +18,7 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&theme=merko&locale=en&hide=total-issues,contributed-to" alt="LeonardoMachado30" />
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact" alt="LeonardoMachado30" />
 <br>
-<br>
-<p>Connect with me:</p>
+- Connect with me:
 <a href="https://www.linkedin.com/in/flavio-leonardo-ads/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a>
 
 
