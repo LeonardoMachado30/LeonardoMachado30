@@ -15,7 +15,8 @@
 - 📫 How to reach me **flmp.leonardo@gmail.com**
 
 
-<img width="380px" src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&theme=merko&locale=en&hide=total-issues,contributed-to" alt="LeonardoMachado30" /><img width="320px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact" alt="LeonardoMachado30" />
+<img width="380px" src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&theme=merko&locale=en&hide=total-issues,contributed-to" alt="LeonardoMachado30" />
+<img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact" alt="LeonardoMachado30" />
 
 
 <br>
