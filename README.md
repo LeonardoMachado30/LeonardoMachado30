@@ -2,7 +2,7 @@
 <h3 align="center">Developer Junior React 12, .net (C#), Laravel (PHP)</h3>
 
 
-<a href="https://app.daily.dev/flavioleonardo"><img align="right" width="400" src="https://api.daily.dev/devcards/48316c647f9a4b22b61065654415f434.png?r=oko"  alt="Flavio Leonardo Machado's Dev Card"/></a>
+<a href="https://app.daily.dev/flavioleonardo"><img align="right" width="380" src="https://api.daily.dev/devcards/48316c647f9a4b22b61065654415f434.png?r=oko"  alt="Flavio Leonardo Machado's Dev Card"/></a>
   
 - 🌱 I’m currently learning **Front-end**
 
