@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **flmp.leonardo@gmail.com**
 
-<img align="left" width="360px" height="400px" src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&theme=merko&locale=en&hide=total-issues,contributed-to" alt="LeonardoMachado30" /><img align="left" width="340px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact" alt="LeonardoMachado30" /><a align="rigth"  href="https://app.daily.dev/flavioleonardo"><img src="https://api.daily.dev/devcards/48316c647f9a4b22b61065654415f434.png?r=oko" width="260" alt="Flavio Leonardo Machado's Dev Card"/></a>
+<img align="top" width="340px" height="400px" src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&theme=merko&locale=en&hide=total-issues,contributed-to" alt="LeonardoMachado30" /><br><img align="left" width="340px" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact" alt="LeonardoMachado30" /><a align="top"  href="https://app.daily.dev/flavioleonardo"><img src="https://api.daily.dev/devcards/48316c647f9a4b22b61065654415f434.png?r=oko" width="260" alt="Flavio Leonardo Machado's Dev Card"/></a>
 <br>
 <br>
 <br>
