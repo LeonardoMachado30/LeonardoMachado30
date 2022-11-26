@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Flavio Leonardo</h1>
-<h3 align="center">Developer Junior React 12, .net (C#), Laravel (PHP)</h3>
+<h3 align="center">Developer React 12, .net (C#), Laravel (PHP)</h3>
 
 
 <a href="https://app.daily.dev/flavioleonardo"><img align="right" width="380" src="https://api.daily.dev/devcards/48316c647f9a4b22b61065654415f434.png?r=oko"  alt="Flavio Leonardo Machado's Dev Card"/></a>
