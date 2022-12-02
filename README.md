@@ -16,7 +16,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true0&layout=compact&theme=radical&locale=en&title_color=ffd700&hide=total-issues,contributed-to" alt="LeonardoMachado30" style="max-width: 100%;" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&" alt="LeonardoMachado30" style="max-width: 100%;" height="214em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&" alt="LeonardoMachado30" height="214em" />
 <br>
 
 Connect with me:
