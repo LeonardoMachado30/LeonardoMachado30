@@ -2,8 +2,6 @@
 <h3 align="center">Developer React 12, .net (C#), Laravel (PHP)</h3>
 
 
-<a href="https://app.daily.dev/flavioleonardo"><img align="right" width="380" src="https://api.daily.dev/devcards/48316c647f9a4b22b61065654415f434.png?r=oko"  alt="Flavio Leonardo Machado's Dev Card"/></a>
-  
 - 🌱 I’m currently learning **Front-end**
 
 - 🤝 I’m looking for help with **Front-end**
@@ -15,6 +13,8 @@
 - 📫 How to reach me **flmp.leonardo@gmail.com**
 
 
+<a href="https://app.daily.dev/flavioleonardo"><img align="right" width="290" src="https://api.daily.dev/devcards/48316c647f9a4b22b61065654415f434.png?r=oko"  alt="Flavio Leonardo Machado's Dev Card"/></a>
+  
 <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true0&layout=compact&theme=radical&locale=en&hide_border=true&title_color=ffd700&hide=total-issues,contributed-to" alt="LeonardoMachado30" style="max-width: 100%;" height="160em" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&hide_border=true" alt="LeonardoMachado30" height="190em" />
 <br>
