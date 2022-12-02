@@ -8,15 +8,15 @@
 
 - 🤝 I’m looking for help with **Front-end**
 
-- 👨‍💻 All of my projects are available at<br> https://leonardomachado30.github.io/CurriculoWeb/
+- 👨‍💻 All of my projects are available at https://leonardomachado30.github.io/CurriculoWeb/
 
-- 💬 Ask me about **Dev front-end, learning React and React-Native,<br> experience in front-end JavaScript, Jquery, Ajax, dotNet - (C#)**
+- 💬 Ask me about **Dev front-end, learning React and React-Native, experience in front-end JavaScript, Jquery, Ajax, dotNet - (C#)**
 
 - 📫 How to reach me **flmp.leonardo@gmail.com**
 
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&theme=merko&locale=en&hide=total-issues,contributed-to" alt="LeonardoMachado30" />
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact" alt="LeonardoMachado30" />
+<img src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true0&layout=compact&theme=radical&locale=en&title_color=ffd700&hide=total-issues,contributed-to" alt="LeonardoMachado30" style="max-width: 100%;" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&" alt="LeonardoMachado30" style="max-width: 100%;" height="214em" />
 <br>
 
 Connect with me:
