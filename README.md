@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Flavio Leonardo</h1>
 <h2>Desenvolvedor front-end React e Back-end C# .NET</h2>
 
-- 👨‍💻 Meus portfólio https://leonardomachado30.github.io/CurriculoWeb/
+- 👨‍💻 Meu portfólio https://leonardomachado30.github.io/CurriculoWeb/
 
 <div>
 <a href="https://app.daily.dev/flavioleonardo"><img align="right" width="330" src="https://api.daily.dev/devcards/48316c647f9a4b22b61065654415f434.png?r=oko"  alt="Flavio Leonardo Machado's Dev Card"/></a>
