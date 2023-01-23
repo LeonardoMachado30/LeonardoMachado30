@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Flavio Leonardo</h1>
-<h2>Desenvolvedor front-end React e Back-end C# .NET</h2>
+<h2 align="center">Desenvolvedor front-end React e Back-end C# .NET</h2>
 
 - 👨‍💻 Meu portfólio https://leonardomachado30.github.io/CurriculoWeb/
 
