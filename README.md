@@ -1,4 +1,5 @@
 # <p align="center">Hello, my name is Flavio Leonardo</p>
+
 ## <p align="center">Full-Stack Developer</p>
 
 ### <p align="center"> <a href="react-app-portifolio.vercel.app" >Portifolio</a></p>
@@ -11,7 +12,7 @@
 
 <div align="center">
 
-  ##  Skills
+## Skills
 
   <!--HTML-->
   <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" />
@@ -26,23 +27,22 @@
   <!--REACT-->
   <img src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" />
   <!--NEXT-->
-  <img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/NEXTJS.svg" />
+  <img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/next.svg" />
   <!--GULP-->
-  <img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/GULP.svg" />
+  <img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/gulp.svg" />
 
 </div>
 <br>
 
 <div align="center">
 
-  ##  Github Profile Trophy 
+## Github Profile Trophy
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoMachado30&column=6&row=1&theme=juicyfresh&no-bg=true&margin-w=10&margin-h=8)](https://github.com/LeonardoMachado30/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoMachado30&column=6&row=1&theme=juicyfresh&no-bg=true&margin-w=10&margin-h=8)](https://github.com/LeonardoMachado30/github-profile-trophy)
 
 </div>
 
-  ### <p>Contact me: </p>
-  
-  <a href="https://www.linkedin.com/in/flavio-leonardo-ads/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvRkZZgWBVBDvTrMxkSmvfrCvVGvNvrwKJntkXprlmPDFWwcwCFpcdcXtmTSPPTzzKPg" target="blank"><img align="center" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="LeonardoMachado30" height="30" width="30" /></a>
+### <p>Contact me: </p>
 
+<a href="https://www.linkedin.com/in/flavio-leonardo-ads/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvRkZZgWBVBDvTrMxkSmvfrCvVGvNvrwKJntkXprlmPDFWwcwCFpcdcXtmTSPPTzzKPg" target="blank"><img align="center" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="LeonardoMachado30" height="30" width="30" /></a>
