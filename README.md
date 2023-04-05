@@ -30,6 +30,10 @@
 <img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/GULP.svg" />
 </div>
 <br>
+<br>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoMachado30&theme=juicyfresh&no-bg=true&margin-w=10&margin-h=8)](https://github.com/LeonardoMachado30/github-profile-trophy)
+
 
 Contact me:
 
