@@ -39,7 +39,4 @@ alt="LeonardoMachado30" height="200em" />
 
 </div>
 
-### <p>Contact me: </p>
-
-<a href="https://www.linkedin.com/in/flavio-leonardo-ads/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvRkZZgWBVBDvTrMxkSmvfrCvVGvNvrwKJntkXprlmPDFWwcwCFpcdcXtmTSPPTzzKPg" target="blank"><img align="center" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="LeonardoMachado30" height="30" width="30" /></a>
+## **Contact me:** <a href="https://www.linkedin.com/in/flavio-leonardo-ads/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvRkZZgWBVBDvTrMxkSmvfrCvVGvNvrwKJntkXprlmPDFWwcwCFpcdcXtmTSPPTzzKPg" target="blank"><img align="center" src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="LeonardoMachado30" height="30" width="30" /></a>
