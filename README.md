@@ -5,15 +5,16 @@
 ### <p align="center"> <a href="react-app-portifolio.vercel.app" >Portifolio</a></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true0&layout=compact&theme=radical&locale=en&hide_border=true&title_color=ffd700&hide=total-issues,contributed-to" alt="LeonardoMachado30" height="200em" align="left" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&hide_border=true" alt="LeonardoMachado30" height="200em" />
+  <img 
+src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true0&layout=compact&theme=radical&locale=en&hide_border=true&title_color=ffd700&hide=total-issues,contributed-to" alt="LeonardoMachado30" height="200em" align="left" />
+  <img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&hide_border=true" 
+alt="LeonardoMachado30" height="200em" />
 </div>
 
 <div align="center">
 
 ## Skills
-
   ![HTML5](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/html.svg)
   ![CSS3](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/css3.svg)
   ![SASS](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/SASS.svg)
@@ -22,13 +23,13 @@
   ![Jquery](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/jquery.svg)
   ![Typescript](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/typescript.svg)
   ![ReactJs](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/react.svg)
-  ![NextJS](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/NEXTJS.svg)
+  ![NextJS](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/next.svg)
   ![GulpJs](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/GULP.svg)
   ![GSAP](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/gsap.svg)
   ![PHP](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/php.svg)
   ![C#](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/csharp.svg)
+  
 </div>
-<br />
 
 <div align="center">
 
