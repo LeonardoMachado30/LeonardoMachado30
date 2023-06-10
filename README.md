@@ -19,7 +19,7 @@ alt="LeonardoMachado30" height="200em" />
   ![CSS3](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/css3.svg)
   ![SASS](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/SASS.svg)
   ![Bootstrap](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/bootstrap.svg)
-  ![Tailwind](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/tailwind.svg)
+  ![Tailwind](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/tailwindcss.svg)
   ![Javascript](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/javascript.svg)
   ![Jquery](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/jquery.svg)
   ![ReactJs](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/react.svg)
