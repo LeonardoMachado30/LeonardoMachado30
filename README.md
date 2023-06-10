@@ -19,13 +19,15 @@ alt="LeonardoMachado30" height="200em" />
   ![CSS3](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/css3.svg)
   ![SASS](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/SASS.svg)
   ![Bootstrap](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/bootstrap.svg)
+  ![Tailwind](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/tailwind.svg)
   ![Javascript](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/javascript.svg)
   ![Jquery](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/jquery.svg)
-  ![Typescript](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/typescript.svg)
   ![ReactJs](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/react.svg)
-  ![NextJS](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/next.svg)
-  ![GulpJs](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/GULP.svg)
   ![GSAP](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/gsap.svg)
+  
+  ![NextJS](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/next.svg)
+  ![Typescript](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/typescript.svg)
+  ![GulpJs](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/GULP.svg)
   ![PHP](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/php.svg)
   ![C#](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/csharp.svg)
   
