@@ -30,8 +30,6 @@
 
 <hr />
 
-### 📊 _Veja Minhas Metricas_
-
 ![LeonardoMachado30](https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&layout=compact&theme=radical&locale=pt-br&hide_border=true&title_color=ffd700&hide=issues&custom_title=M%C3%A9tricas)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&hide_border=true&hide=C&locale=pt-br)
 
