@@ -3,7 +3,7 @@
 <div align="center">
 
 # Seja Bem-Vindo(a)! 
-![Me](https://media.licdn.com/dms/image/D4E16AQHG7ZZyOoK8Xw/profile-displaybackgroundimage-shrink_350_1400/0/1678911061556?e=1695254400&v=beta&t=kEr6ysN-3YAIdJSmDcCgncR9i0SZ5QHSmMcWIOn-_-c) 
+![Me](https://media.licdn.com/dms/image/D4E16AQFtKwOtoGqWCA/profile-displaybackgroundimage-shrink_350_1400/0/1690571838601?e=1695859200&v=beta&t=oihGzPEnL5cBviNquKFat4ABCmEgRuyVhkhdd8TrbaQ) 
 # Me chamo Flavio Leonardo e sou desenvolvedor de front-end. <br/> Sinta-se a vontade!😄
 
 ## 🎈 Visite meu <a href="https://react-app-portifolio.vercel.app/" target="_blank" >Portifolio</a> 
