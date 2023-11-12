@@ -3,7 +3,7 @@
 <div align="center">
 
 # Seja Bem-Vindo(a)! 
-![Me](https://media.licdn.com/dms/image/D4E16AQFtKwOtoGqWCA/profile-displaybackgroundimage-shrink_350_1400/0/1690571838601?e=1695859200&v=beta&t=oihGzPEnL5cBviNquKFat4ABCmEgRuyVhkhdd8TrbaQ) 
+![Me]([https://media.licdn.com/dms/image/D4E16AQFtKwOtoGqWCA/profile-displaybackgroundimage-shrink_350_1400/0/1690571838601?e=1695859200&v=beta&t=oihGzPEnL5cBviNquKFat4ABCmEgRuyVhkhdd8TrbaQ](https://media.licdn.com/dms/image/D4D16AQGqtZNrfbbsLA/profile-displaybackgroundimage-shrink_350_1400/0/1698351935228?e=1705536000&v=beta&t=XmuBEbNMonMRpSEI81RY3H1Zy2ReqCHe-FMhByW8ezI)) 
 # Sinta-se a vontade!😄
 
 ## 🎈 Visite meu <a href="https://react-app-portifolio.vercel.app/" target="_blank" >Portifolio</a> 
