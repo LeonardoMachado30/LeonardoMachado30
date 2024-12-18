@@ -3,7 +3,8 @@
 <div align="center">
 
 # Seja Bem-Vindo(a)! 
-![Me](https://media.licdn.com/dms/image/D4D16AQGqtZNrfbbsLA/profile-displaybackgroundimage-shrink_350_1400/0/1698351935228?e=1705536000&v=beta&t=XmuBEbNMonMRpSEI81RY3H1Zy2ReqCHe-FMhByW8ezI) 
+![Me](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/1698351935228.jpg) 
+
 # Sinta-se a vontade!😄
 
 ## 🎈 Visite meu <a href="https://react-app-portifolio.vercel.app/" target="_blank" >Portifolio</a> 
