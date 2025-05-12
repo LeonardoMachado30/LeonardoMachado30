@@ -17,7 +17,7 @@
 ![SASS](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/SASS.svg)
 ![Bootstrap](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/bootstrap.svg)
 ![Tailwind](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/tailwindcss.svg)
-![Javascript]([https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/javascript.svg](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/javascript.svg))
+![Javascript](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/javascript.svg)
 ![Jquery](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/jquery.svg)
 ![ReactJs](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/react.svg)
 ![GSAP](https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/gsap.svg)
