@@ -37,7 +37,7 @@
 <hr />
 
 ### 🏆 _Também Tenho Troféus_  
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoMachado30&column=6&row=1&theme=juicyfresh&no-bg=true&margin-w=10&margin-h=8&locale=pt-br)](https://github.com/LeonardoMachado30/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoMachado30&column=6&row=1&theme=flat&no-bg=true&margin-w=10&margin-h=8&locale=pt-br)](https://github.com/LeonardoMachado30/github-profile-trophy)
 
 <hr />
 
