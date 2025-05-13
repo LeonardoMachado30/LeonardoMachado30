@@ -50,7 +50,7 @@
 <hr />
 
 ### 🌎 _Redes Sociais_
-<a href="https://www.linkedin.com/in/flavio-leonardo-ads/" target="_blank"><img  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a> 
+<a href="https://www.linkedin.com/in/flavio-leonardo-machado/" target="_blank"><img  src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LeonardoMachado30" height="30" width="30" /></a> 
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqSvRkZZgWBVBDvTrMxkSmvfrCvVGvNvrwKJntkXprlmPDFWwcwCFpcdcXtmTSPPTzzKPg" target="_blank"><img src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" alt="LeonardoMachado30" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=5561981095126&text=Ol%C3%A1,%20gostaria%20de%20conversar%20com%20o%20Fl%C3%A1vio%20Leonardo,%20encontra-se?" target="_blank"><img src="https://th.bing.com/th/id/R.3db05f40f9bfbfa4818e5f841359ac18?rik=i9uCGc2yoCWfNA&riu=http%3a%2f%2fspeedyclearance.uk%2fwp-content%2fuploads%2f2018%2f04%2fwhatsapp-icon.png&ehk=%2fGSNSk4y8vLd2qCiosXRI0WSYOth7SLdJewCXSxpcmY%3d&risl=&pid=ImgRaw&r=0" alt="LeonardoMachado30" height="30" width="30" /></a>
 
