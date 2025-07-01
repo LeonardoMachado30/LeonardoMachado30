@@ -16,7 +16,7 @@
       <h3>🚀 Sobre mim</h3>
       <img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/ChatGPT%20Image%201%20de%20jul.%20de%202025%2C%2016_31_41.png" /><br><br>
       💻 Desenvolvedor Front-end Pleno formado em Análise e Desenvolvimento de Sistemas, focado em performance, escalabilidade e experiência do usuário.<br>
-      🧩 Experiência com Vue.js, Node, NestJs, Prisma, Pinia, React, Laravel, WordPress e .NET (Blazor/Razor).<br>
+      🧩 Experiência com Vue.js, React 16+, NextJs, Angular, Pinia, Redux, Node, NestJs, Prisma, Laravel, WordPress e .NET (Blazor/Razor).<br>
       🔗 Integração de APIs REST, Firebase e interfaces para dashboards, e-commerces e chatbots.<br>
       🚀 Aprimorando habilidades em Angular 16+, aplico design patterns, UI/UX e acessibilidade para criar interfaces modernas e performáticas.
     </td>
