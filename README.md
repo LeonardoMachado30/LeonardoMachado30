@@ -1,70 +1,58 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Flávio Leonardo
+# 👋 Olá, eu sou o Flávio Leonardo  
 
-<img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/ChatGPT%20Image%201%20de%20jul.%20de%202025%2C%2008_52_10.png" alt="Dev Avatar" heigth="50"/>
+💻 Desenvolvedor Full-Stack | A.D.S.  
+🚀 Focado em performance, escalabilidade e UX  
 
-</div>
+<img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/ChatGPT%20Image%201%20de%20jul.%20de%202025%2C%2008_52_10.png" alt="Dev Avatar" width="300"/>
 
----
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Sobre mim</h3>
-      <img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/ChatGPT%20Image%201%20de%20jul.%20de%202025%2C%2016_31_41.png" /><br><br>
-      💻 Desenvolvedor Front-end Pleno formado em Análise e Desenvolvimento de Sistemas, focado em performance, escalabilidade e experiência do usuário.<br>
-      🧩 Experiência com Vue.js, React 16+, NextJs, Angular, Pinia, Redux, Node, NestJs, Prisma, Laravel, WordPress e .NET (Blazor/Razor).<br>
-      🔗 Integração de APIs REST, Firebase e interfaces para dashboards, e-commerces e chatbots.<br>
-      🚀 Aprimorando habilidades em Angular 16+, aplico design patterns, UI/UX e acessibilidade para criar interfaces modernas e performáticas.
-    </td>
-    <td align="center" width="50%">
-      <h3>🛠️ Stack Principal</h3>
-      <img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/ChatGPT%20Image%201%20de%20jul.%20de%202025%2C%2008_07_25.png" /><br><br>
-    </td>
-  </tr>
-</table>
+[Currículo](https://drive.google.com/file/d/1Co7f_VfKaO85vLH0TLYLVLEj-wGxTW7p/view?usp=sharing)
 
 </div>
 
 ---
 
-## 📌 **Principais Projetos**
-Clique e explore alguns dos meus repositórios públicos mais relevantes:
+## 🚀 Sobre mim
+Sou **Desenvolvedor Full-Stack Pleno**, formado em **Análise e Desenvolvimento de Sistemas**, com experiência na construção de aplicações web escaláveis, performáticas e seguras.  
 
-- [Portfólio React](https://github.com/LeonardoMachado30/React__app__portifolio)
-- [Landing Page](https://github.com/LeonardoMachado30/landing-page)
-- [Pokemons React](https://github.com/LeonardoMachado30/Pokemons-React)
-- [Nest Prisma App](https://github.com/LeonardoMachado30/nest-prisma-app)
+- 🎨 **Front-end:** React, Next.js, Vue.js, Angular, Tailwind e boas práticas de UI/UX.  
+- ⚙️ **Back-end:** Node.js, NestJS, Prisma, Laravel, PHP, APIs REST e Firebase.  
+- 🗄️ **Banco de Dados:** PostgreSQL, MySQL e integração com ORMs modernos.  
+- 📦 **DevOps & Ferramentas:** Docker, Git/GitHub/GitLab, Azure e testes com Jest.  
+- 🧩 Experiência em **landing-page, dashboards, e-commerces, job showcase, chatbots e sistemas CRM/ATS**.
+- 🚀 Atualmente aprimorando habilidades em **Angular 16+**, arquitetura limpa e acessibilidade.
+
+Meu foco é desenvolver soluções que unam **alta performance, escalabilidade e excelente experiência do usuário**.
 
 ---
 
-## ✨ **Métricas GitHub**
-
+## 🛠️ Stack Principal
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&theme=radical&title_color=ffd700&hide=issues&locale=pt-br" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&title_color=ffd700&locale=pt-br" alt="Top Langs" height="150"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,bootstrap,sass,nodejs,nestjs,nextjs,nuxtjs,prisma,php,laravel,mysql,postgres,docker,jest,git,github,gitlab,azure" />
 </p>
 
 ---
 
-## 🌐 **Conecte-se Comigo**
+## 📌 Projetos em Destaque
+- [Portfólio](https://github.com/LeonardoMachado30/React__app__portifolio)  
+- [Landing Page](https://github.com/LeonardoMachado30/landing-page)  
+- [Pokemons React](https://github.com/LeonardoMachado30/Pokemons-React)  
+- [Nest Prisma App](https://github.com/LeonardoMachado30/nest-prisma-app)  
 
+---
+
+## 📊 Estatísticas GitHub
 <p align="center">
-  <a href="https://www.linkedin.com/in/leo-front-end/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:flmp.leonardo@gmail.com" target="_blank">
-    <img src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" width="30" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=5561981095126&text=Ol%C3%A1,%20gostaria%20de%20conversar%20com%20o%20Fl%C3%A1vio%20Leonardo,%20encontra-se?" target="_blank">
-    <img src="https://th.bing.com/th/id/R.3db05f40f9bfbfa4818e5f841359ac18?rik=i9uCGc2yoCWfNA&riu=http%3a%2f%2fspeedyclearance.uk%2fwp-content%2fuploads%2f2018%2f04%2fwhatsapp-icon.png&ehk=%2fGSNSk4y8vLd2qCiosXRI0WSYOth7SLdJewCXSxpcmY%3d&risl=&pid=ImgRaw&r=0" width="30" alt="WhatsApp"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&theme=radical&hide=issues&locale=pt-br" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&locale=pt-br" height="150"/>
 </p>
 
 ---
 
+## 🌐 Conecte-se comigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/leo-front-end/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
+  <a href="mailto:flmp.leonardo@gmail.com"><img src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" width="30"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5561981095126" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30"/></a>
+</p>
