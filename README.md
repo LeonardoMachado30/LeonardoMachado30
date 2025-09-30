@@ -37,7 +37,7 @@ Meu foco é desenvolver soluções que unam **alta performance, escalabilidade e
 ## 📌 Projetos em Destaque
 - [Portfólio](https://github.com/LeonardoMachado30/React__app__portifolio)  
 - [Landing Page](https://github.com/LeonardoMachado30/landing-page)  
-- [Pokemons React](https://github.com/LeonardoMachado30/Pokemons-React)  
+- [Jogo da memoria](https://github.com/LeonardoMachado30/jogo-da-memoria)  
 - [Nest Prisma App](https://github.com/LeonardoMachado30/nest-prisma-app)  
 
 ---
