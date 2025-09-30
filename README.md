@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou o Flávio Leonardo  
 
 💻 Desenvolvedor Full-Stack | A.D.S.  
-🚀 Focado em performance, escalabilidade e UX  
+🚀 Focado em performance, escalabilidade e UI
 
 <img src="https://github.com/LeonardoMachado30/LeonardoMachado30/blob/main/ChatGPT%20Image%201%20de%20jul.%20de%202025%2C%2008_52_10.png" alt="Dev Avatar" width="300"/>
 
