@@ -35,18 +35,9 @@ Meu foco é desenvolver soluções que unam **alta performance, escalabilidade e
 ---
 
 ## 📌 Projetos em Destaque
-- [Portfólio](https://github.com/LeonardoMachado30/React__app__portifolio)  
-- [Landing Page](https://github.com/LeonardoMachado30/landing-page)  
+- [Portfólio](https://www.portifolioflavio.com.br/)  
 - [Jogo da memoria](https://github.com/LeonardoMachado30/jogo-da-memoria)  
 - [Nest Prisma App](https://github.com/LeonardoMachado30/nest-prisma-app)  
-
----
-
-## 📊 Estatísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMachado30&show_icons=true&theme=radical&hide=issues&locale=pt-br" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMachado30&layout=compact&theme=radical&locale=pt-br" height="150"/>
-</p>
 
 ---
 
