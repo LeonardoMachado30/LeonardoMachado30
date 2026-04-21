@@ -35,6 +35,7 @@ Meu foco é desenvolver soluções que unam **alta performance, escalabilidade e
 ---
 
 ## 📌 Projetos em Destaque
+- Atualmente focado em projetos privados corporativos no GitLab
 - [Portfólio](https://www.portifolioflavio.com.br/)  
 - [Jogo da memoria](https://github.com/LeonardoMachado30/jogo-da-memoria)  
 - [Nest Prisma App](https://github.com/LeonardoMachado30/nest-prisma-app)  
@@ -44,6 +45,4 @@ Meu foco é desenvolver soluções que unam **alta performance, escalabilidade e
 ## 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/leo-front-end/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
-  <a href="mailto:flmp.leonardo@gmail.com"><img src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" width="30"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5561981095126" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30"/></a>
 </p>
